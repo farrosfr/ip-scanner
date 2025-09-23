@@ -50,12 +50,22 @@ def parse_ports(port_string):
 
 if __name__ == "__main__":
     banner = """
---------------------
-|    IP SCANNER    |
---------------------
+---------------------------------------------------------------------------
+|  .__                                                                    |
+|  |__|_____             ______ ____ _____    ____   ____   ___________   |
+|  |  \____ \   ______  /  ___// ___\\__  \  /    \ /    \_/ __ \_  __ \  |
+|  |  |  |_> > /_____/  \___ \\  \___ / __ \|   |  \   |  \  ___/|  | \/  |
+|  |__|   __/          /____  >\___  >____  /___|  /___|  /\___  >__|     |
+|  |__|                  \/     \/     \/     \/     \/     \/            |
+---------------------------------------------------------------------------
 """
     credit = "by farrosfr"
-    disclaimer = "\nDisclaimer: educational purpose and ethical use only\n"
+    # --- Ganti baris ini dengan pilihan Anda ---
+    disclaimer = """
+[!] LEGAL DISCLAIMER: This tool is intended for educational purposes and authorized security testing only. 
+Any actions and consequences resulting from misuse of this tool are the sole responsibility of the user. 
+The author is not responsible for any damage caused.
+"""
 
     print(banner)
     print(credit)
