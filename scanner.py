@@ -61,9 +61,7 @@ if __name__ == "__main__":
     credit = "by farrosfr"
     # --- Ganti baris ini dengan pilihan Anda ---
     disclaimer = """
-[!] LEGAL DISCLAIMER: This tool is intended for educational purposes and authorized security testing only. 
-Any actions and consequences resulting from misuse of this tool are the sole responsibility of the user. 
-The author is not responsible for any damage caused.
+[!] DISCLAIMER: For educational purpose and ethical use only.
 """
 
     print(banner)
